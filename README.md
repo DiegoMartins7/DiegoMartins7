@@ -3,6 +3,14 @@
 - 🔭 Hoje trabalho como Suporte Tecnico
 - 🌱 Estou estudando JAVA, C e C++
 
+<a href="https://github.com/DiegoMartins7">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoMartins7&theme=transparent&border_radius=2" />
+</a>
+<a href="https://github.com/DiegoMartins7">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoMartins7&layout=compact&langs_count=8&card_width=320&theme=transparent&border_radius=2">
+</a>
+
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Diego-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
  <img align="center" alt="Diego-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
