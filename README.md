@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Suporte Tecnico
 - 🌱 Estou estudando JAVA, C e C++
-- 👯 Estou procurando colaborar em um projeto iteressante que ajude a melhorar as minhas habilidades
+- 👯 Estou procurando colaborar em um projeto interessante que ajude a melhorar as minhas habilidades
 &nbsp;
 &nbsp;
 
