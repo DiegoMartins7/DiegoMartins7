@@ -1,7 +1,7 @@
 ## Olá! eu sou o Diego Martins
 
 - 🔭 Hoje trabalho como Suporte Tecnico na Soften Sistemas
-- 🌱 Estou estudando JAVA, C e C++ com o objetivo de se profissionalizar como Back-End
+- 📖 Estou estudando JAVA, C e C++ com o objetivo de se profissionalizar como Back-End
 - 💻 Procuro colaborar em um projeto interessante que ajude a melhorar as minhas habilidades
 &nbsp;
 &nbsp;
