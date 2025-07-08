@@ -1,8 +1,37 @@
 ## Olá! eu sou o Diego Martins
 
-- 🔭 Hoje trabalho como Suporte Tecnico na Soften Sistemas
-- 📖 Estou estudando JAVA, C e C++ com o objetivo de se profissionalizar como Back-End
-- 💻 Procuro colaborar em um projeto interessante que ajude a melhorar as minhas habilidades
+### 🚀 Stack Principal
+- **Java** (17+)
+- **Spring Boot**
+- **Spring Web**
+- **Spring Data JPA**
+- **Spring Security**
+
+### 🌐 Desenvolvimento Web
+- Estrutura em camadas (Controller, Service, Repository)
+- Uso de DTOs, mapeamentos e validações
+- Tratamento de exceções
+- Padrões RESTful
+
+### 🗄️ Persistência de Dados
+- Banco de dados relacionais: **MySQL**, **PostgreSQL**
+- ORM com **JPA/Hibernate**
+
+### 🧪 Testes
+- **JUnit 5**
+- **Mockito**
+
+### 🛠️ Ferramentas e Boas Práticas
+- **Maven**
+- **Git/GitHub**
+- Princípios **SOLID** e **Clean Code**
+- Containers com **Docker** (em aprendizado)
+
+### 📚 Aprendizado Contínuo
+- Microsserviços com Spring Cloud
+- Autenticação/autorização com JWT
+- Integrações com serviços externos
+
 &nbsp;
 &nbsp;
 
