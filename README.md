@@ -46,8 +46,3 @@ Atualmente aprofundo meus estudos em APIs REST, persistência de dados, autentic
 Plataforma SaaS de controle financeiro pessoal e investimentos, desenvolvida como projeto próprio para aplicar conceitos de backend, arquitetura, banco de dados, autenticação, deploy e produto digital.
 
 Tecnologias principais: Java 21, Spring Boot, PostgreSQL, Flyway, JWT, GitLab CI/CD, Linux, Nginx e AWS EC2/S3.
-
-## Contato
-
-- LinkedIn: coloque seu link
-- E-mail: dev.diegomartins@hotmail.com
