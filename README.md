@@ -1,57 +1,53 @@
-## Olá! eu sou o Diego Martins
+# Olá! Eu sou o Diego Martins
 
-### 🚀 Stack Principal
-- **Java** (17+)
-- **Spring Boot**
-- **Spring Web**
-- **Spring Data JPA**
-- **Spring Security**
+Profissional de tecnologia com experiência em suporte a sistemas e foco em desenvolvimento backend com Java, Spring Boot, SQL e boas práticas de arquitetura.
 
-### 🌐 Desenvolvimento Web
-- Estrutura em camadas (Controller, Service, Repository)
-- Uso de DTOs, mapeamentos e validações
-- Tratamento de exceções
-- Padrões RESTful
+Atualmente aprofundo meus estudos em APIs REST, persistência de dados, autenticação/autorização, testes, CI/CD e infraestrutura para aplicações web.
 
-### 🗄️ Persistência de Dados
-- Banco de dados relacionais: **MySQL**, **PostgreSQL**
-- ORM com **JPA/Hibernate**
+## Tecnologias e conhecimentos
 
-### 🧪 Testes
-- **JUnit 5**
-- **Mockito**
+### Backend
+- Java 17+
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Spring Security
+- APIs REST
+- JWT
 
-### 🛠️ Ferramentas e Boas Práticas
-- **Maven**
-- **Git/GitHub**
-- Princípios **SOLID** e **Clean Code**
-- Containers com **Docker** (em aprendizado)
+### Banco de Dados
+- PostgreSQL
+- MySQL
+- SQL
+- JPA/Hibernate
+- Flyway
 
-### 📚 Aprendizado Contínuo
-- Microsserviços com Spring Cloud
-- Autenticação/autorização com JWT
-- Integrações com serviços externos
+### Arquitetura e Boas Práticas
+- Arquitetura em camadas
+- DTOs, mapeamentos e validações
+- Princípios SOLID
+- Código limpo
+- Separação de responsabilidades
 
-&nbsp;
-&nbsp;
+### Testes
+- JUnit 5
+- Mockito
 
-<a href="https://github.com/DiegoMartins7">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoMartins7&theme=transparent&border_radius=2" />
-</a>
-<a href="https://github.com/DiegoMartins7">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoMartins7&layout=compact&langs_count=8&card_width=320&theme=transparent&border_radius=2">
-</a>
+### DevOps e Ferramentas
+- Git e GitHub
+- Maven
+- Docker em estudo
+- Linux
+- CI/CD em estudo
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Diego-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
- <img align="center" alt="Diego-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## Projeto em destaque
 
- ##
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### Finpi
+Plataforma SaaS de controle financeiro pessoal e investimentos, desenvolvida como projeto próprio para aplicar conceitos de backend, arquitetura, banco de dados, autenticação, deploy e produto digital.
+
+Tecnologias principais: Java 21, Spring Boot, PostgreSQL, Flyway, JWT, GitLab CI/CD, Linux, Nginx e AWS EC2/S3.
+
+## Contato
+
+- LinkedIn: coloque seu link
+- E-mail: dev.diegomartins@hotmail.com
